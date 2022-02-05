@@ -1,0 +1,31 @@
+name,id,type,Label
+agents secrets,a0,ACTOR,agents secrets
+oiseaux,a1,ACTOR,oiseaux
+famille,a2,ACTOR,famille
+compagnon,a3,ACTOR,compagnon
+animaux morts,a4,ACTOR,animaux morts
+célébrités,a5,ACTOR,célébrités
+,a6,ACTOR,
+animaux envahissants,a7,ACTOR,animaux envahissants
+personnes menaçantes,a8,ACTOR,personnes menaçantes
+envahisseurs,a9,ACTOR,envahisseurs
+contacts perdus,a10,ACTOR,contacts perdus
+copains,a11,ACTOR,copains
+végétaux,a12,ACTOR,végétaux
+proche mort,a13,ACTOR,proche mort
+inconnus,a14,ACTOR,inconnus
+amis,a15,ACTOR,amis
+policiers,a16,ACTOR,policiers
+malades,a17,ACTOR,malades
+hitler,a18,ACTOR,hitler
+amis perdus,a19,ACTOR,amis perdus
+animaux vivants,a20,ACTOR,animaux vivants
+masques,a21,ACTOR,masques
+hommes en combinaison,a22,ACTOR,hommes en combinaison
+militaires,a23,ACTOR,militaires
+foule,a24,ACTOR,foule
+inconnus morts,a25,ACTOR,inconnus morts
+bourreaux,a26,ACTOR,bourreaux
+ami,a27,ACTOR,ami
+oiseau,a28,ACTOR,oiseau
+drones,a29,ACTOR,drones

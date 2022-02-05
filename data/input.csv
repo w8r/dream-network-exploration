@@ -1,0 +1,60 @@
+ID,ID,LIEU,INT/EXT,ACTEURS,AGE,GENRE,COVID,STRESS
+REVE002,REVE002,ville,EXT,agents secrets ; oiseaux,24,H,non,non
+REVE004,REVE004, ,EXT,famille ; compagnon,28,F,non,oui
+REVE005,REVE005,expo,INT,animaux morts ; célébrités,44,H,oui,oui
+REVE006,REVE006,parc ; pays étranger,EXT,,43,F,non,non
+REVE007,REVE007,,EXT,animaux envahissants ; personnes menaçantes,48,F,non,oui
+REVE009,REVE009,ville ; lieu confiné ; expo ; bars,EXT,envahisseurs,29,F,non,oui
+REVE010,REVE010,rue,EXT,contacts perdus ; animaux envahissants,40,F,oui,oui
+REVE011,REVE011,école,INT,contacts perdus ,22,F,oui,oui
+REVE014,REVE014,travail,EXT,copains ; oiseaux,51,F,non,oui
+REVE015,REVE015,forêt,EXT,contacts perdus ; animaux morts,40,F,non,oui
+REVE016,REVE016,pays étranger,EXT,contacts perdus ; végétaux,36,F,non,non
+REVE017,REVE017,coiffeur,INT,,39,F,non,non
+REVE020,REVE020,,0,proche mort,65,F,oui,oui
+,,maison bourgeoise ; désert géant,HYBRIDE,inconnus,30,F,non,non
+,,,0,inconnus,22,F,oui,oui
+,,cimetiere,EXT,famille ; proche mort,67,F,oui,oui
+,,pont,EXT,famille ; amis,38,F,non,non
+,,marché,EXT,inconnus,26,F,oui,non
+,,,EXT,famille ; animaux morts,21,F,oui,non
+,,,0,animaux envahissants,46,F,non,non
+,,interstice spatio-temporel,HYBRIDE,,23,H,non,non
+,,appartement ,INT,famille,56,M,non,non
+,,pré,EXT,animaux envahissants,59,F,non,oui
+,,ville au bord de l'eau,EXT,famille,61,F,non,non
+,,lieu sombre ; lieu toxique,HYBRIDE,amis ; policiers ; malades ,24,F,non,non
+,,colline,EXT,animaux envahissants ; hitler ; végétaux,23,F,non,non
+,,logement,INT,amis perdus,21,F,non,non
+,,lieu sombre,HYBRIDE,animaux vivants,22,F,oui,non
+,,toilettes,INT,,33,F,non,non
+,,grands espaces,EXT,famille ; animaux vivants ; contacts perdus,61,F,non,non
+,,tarmac aéroport,EXT,compagnon ; proche mort,29,M,oui,oui
+,,ville,EXT,amis ; célébrités,39,A,oui,oui
+,,école,HYBRIDE,amis ; policiers ,23,F,oui,oui
+,,logement,INT,inconnus,19,F,non,non
+,,église,INT,masques,27,F,oui,non
+,,rue,EXT,famille ; amis,15,F,oui,non
+,,immeuble luxueux,HYBRIDE,hommes en combinaison ; policiers ; militaires ; oiseaux,22,F,oui,non
+,,chambre,INT,,21,F,non,non
+,,lieux de fête ; grands espaces,EXT,foule,25,F,oui,non
+,,lieu toxique,INT,inconnus morts,25,F,oui,non
+,,ville,EXT,policiers,22,F,oui,oui
+,,logement,INT,amis,27,H,non,non
+,,lieu sombre,INT,bourreaux,25,F,oui,non
+,,intérieur ,INT,ami,24,F,non,oui
+,,lac,EXT,oiseau ; famille ; contacts perdus,21,F,non,non
+,,avion ; université,INT,proche mort,60,F,non,oui
+,,immeuble,INT,,23,F,non,non
+,,logement ; jardin,INT,proche mort,65,F,non,non
+,,forêt,INT,drones ; compagnon,33,F,non,oui
+,,chambre d'hôtel,INT,amis ; famille,35,F,oui,oui
+,,ville ; nature ; bars,HYBRIDE,proche mort ; compagnon,28,F,non,non
+,,,0,animaux vivants,30,F,non,oui
+,,stade ; rue,EXT,famille ; inconnus,24,F,non,oui
+,,nature,EXT,,34,M,non,non
+,,logement,INT,amis,38,M,non,non
+,,nature ; pays étranger,HYBRIDE,,34,F,non,oui
+,,,,animaux vivants ; célébrités,27,F,non,non
+,,lieu sombre ; nature,EXT,,29,F,non,oui
+,,logement ; jardin,HYBRIDE,animaux vivants,49,F,non,non

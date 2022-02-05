@@ -1,0 +1,17 @@
+{
+  "name": "sonya-dreams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "csv": "^6.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node ./scripts/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

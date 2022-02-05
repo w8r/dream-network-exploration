@@ -1,0 +1,6 @@
+minAge,maxAge,id,Label,type
+0,20,ag0,0 - 20,AGE_GROUP
+21,34,ag1,21 - 34,AGE_GROUP
+35,49,ag2,35 - 49,AGE_GROUP
+50,60,ag3,50 - 60,AGE_GROUP
+61,70,ag4,61 - 70,AGE_GROUP

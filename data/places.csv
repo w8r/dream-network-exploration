@@ -1,0 +1,56 @@
+location,intExt,id,Label,type
+ville,EXT,l0,ville (EXT),LOCATION
+,EXT,l1,undefined (EXT),LOCATION
+expo,INT,l2,expo (INT),LOCATION
+parc,EXT,l3,parc (EXT),LOCATION
+pays étranger,EXT,l4,pays étranger (EXT),LOCATION
+lieu confiné,EXT,l5,lieu confiné (EXT),LOCATION
+expo,EXT,l6,expo (EXT),LOCATION
+bars,EXT,l7,bars (EXT),LOCATION
+rue,EXT,l8,rue (EXT),LOCATION
+école,INT,l9,école (INT),LOCATION
+travail,EXT,l10,travail (EXT),LOCATION
+forêt,EXT,l11,forêt (EXT),LOCATION
+coiffeur,INT,l12,coiffeur (INT),LOCATION
+,,l13,undefined,LOCATION
+maison bourgeoise,HYBRIDE,l14,maison bourgeoise (HYBRIDE),LOCATION
+désert géant,HYBRIDE,l15,désert géant (HYBRIDE),LOCATION
+cimetiere,EXT,l16,cimetiere (EXT),LOCATION
+pont,EXT,l17,pont (EXT),LOCATION
+marché,EXT,l18,marché (EXT),LOCATION
+interstice spatio-temporel,HYBRIDE,l19,interstice spatio-temporel (HYBRIDE),LOCATION
+appartement,INT,l20,appartement (INT),LOCATION
+pré,EXT,l21,pré (EXT),LOCATION
+ville au bord de l'eau,EXT,l22,ville au bord de l'eau (EXT),LOCATION
+lieu sombre,HYBRIDE,l23,lieu sombre (HYBRIDE),LOCATION
+lieu toxique,HYBRIDE,l24,lieu toxique (HYBRIDE),LOCATION
+colline,EXT,l25,colline (EXT),LOCATION
+logement,INT,l26,logement (INT),LOCATION
+toilettes,INT,l27,toilettes (INT),LOCATION
+grands espaces,EXT,l28,grands espaces (EXT),LOCATION
+tarmac aéroport,EXT,l29,tarmac aéroport (EXT),LOCATION
+école,HYBRIDE,l30,école (HYBRIDE),LOCATION
+église,INT,l31,église (INT),LOCATION
+immeuble luxueux,HYBRIDE,l32,immeuble luxueux (HYBRIDE),LOCATION
+chambre,INT,l33,chambre (INT),LOCATION
+lieux de fête,EXT,l34,lieux de fête (EXT),LOCATION
+lieu toxique,INT,l35,lieu toxique (INT),LOCATION
+lieu sombre,INT,l36,lieu sombre (INT),LOCATION
+intérieur,INT,l37,intérieur (INT),LOCATION
+lac,EXT,l38,lac (EXT),LOCATION
+avion,INT,l39,avion (INT),LOCATION
+université,INT,l40,université (INT),LOCATION
+immeuble,INT,l41,immeuble (INT),LOCATION
+jardin,INT,l42,jardin (INT),LOCATION
+forêt,INT,l43,forêt (INT),LOCATION
+chambre d'hôtel,INT,l44,chambre d'hôtel (INT),LOCATION
+ville,HYBRIDE,l45,ville (HYBRIDE),LOCATION
+nature,HYBRIDE,l46,nature (HYBRIDE),LOCATION
+bars,HYBRIDE,l47,bars (HYBRIDE),LOCATION
+stade,EXT,l48,stade (EXT),LOCATION
+nature,EXT,l49,nature (EXT),LOCATION
+pays étranger,HYBRIDE,l50,pays étranger (HYBRIDE),LOCATION
+,,l51,undefined,LOCATION
+lieu sombre,EXT,l52,lieu sombre (EXT),LOCATION
+logement,HYBRIDE,l53,logement (HYBRIDE),LOCATION
+jardin,HYBRIDE,l54,jardin (HYBRIDE),LOCATION

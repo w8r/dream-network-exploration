@@ -1,0 +1,60 @@
+id,type,Label,place,intExt,actors,age,sex,covid,stress
+r1,DREAM,Dream #1,ville,EXT,agents secrets ; oiseaux,24,H,non,non
+r2,DREAM,Dream #2, ,EXT,famille ; compagnon,28,F,non,oui
+r3,DREAM,Dream #3,expo,INT,animaux morts ; célébrités,44,H,oui,oui
+r4,DREAM,Dream #4,parc ; pays étranger,EXT,,43,F,non,non
+r5,DREAM,Dream #5,,EXT,animaux envahissants ; personnes menaçantes,48,F,non,oui
+r6,DREAM,Dream #6,ville ; lieu confiné ; expo ; bars,EXT,envahisseurs,29,F,non,oui
+r7,DREAM,Dream #7,rue,EXT,contacts perdus ; animaux envahissants,40,F,oui,oui
+r8,DREAM,Dream #8,école,INT,contacts perdus ,22,F,oui,oui
+r9,DREAM,Dream #9,travail,EXT,copains ; oiseaux,51,F,non,oui
+r10,DREAM,Dream #10,forêt,EXT,contacts perdus ; animaux morts,40,F,non,oui
+r11,DREAM,Dream #11,pays étranger,EXT,contacts perdus ; végétaux,36,F,non,non
+r12,DREAM,Dream #12,coiffeur,INT,,39,F,non,non
+r13,DREAM,Dream #13,,0,proche mort,65,F,oui,oui
+r14,DREAM,Dream #14,maison bourgeoise ; désert géant,HYBRIDE,inconnus,30,F,non,non
+r15,DREAM,Dream #15,,0,inconnus,22,F,oui,oui
+r16,DREAM,Dream #16,cimetiere,EXT,famille ; proche mort,67,F,oui,oui
+r17,DREAM,Dream #17,pont,EXT,famille ; amis,38,F,non,non
+r18,DREAM,Dream #18,marché,EXT,inconnus,26,F,oui,non
+r19,DREAM,Dream #19,,EXT,famille ; animaux morts,21,F,oui,non
+r20,DREAM,Dream #20,,0,animaux envahissants,46,F,non,non
+r21,DREAM,Dream #21,interstice spatio-temporel,HYBRIDE,,23,H,non,non
+r22,DREAM,Dream #22,appartement ,INT,famille,56,M,non,non
+r23,DREAM,Dream #23,pré,EXT,animaux envahissants,59,F,non,oui
+r24,DREAM,Dream #24,ville au bord de l'eau,EXT,famille,61,F,non,non
+r25,DREAM,Dream #25,lieu sombre ; lieu toxique,HYBRIDE,amis ; policiers ; malades ,24,F,non,non
+r26,DREAM,Dream #26,colline,EXT,animaux envahissants ; hitler ; végétaux,23,F,non,non
+r27,DREAM,Dream #27,logement,INT,amis perdus,21,F,non,non
+r28,DREAM,Dream #28,lieu sombre,HYBRIDE,animaux vivants,22,F,oui,non
+r29,DREAM,Dream #29,toilettes,INT,,33,F,non,non
+r30,DREAM,Dream #30,grands espaces,EXT,famille ; animaux vivants ; contacts perdus,61,F,non,non
+r31,DREAM,Dream #31,tarmac aéroport,EXT,compagnon ; proche mort,29,M,oui,oui
+r32,DREAM,Dream #32,ville,EXT,amis ; célébrités,39,A,oui,oui
+r33,DREAM,Dream #33,école,HYBRIDE,amis ; policiers ,23,F,oui,oui
+r34,DREAM,Dream #34,logement,INT,inconnus,19,F,non,non
+r35,DREAM,Dream #35,église,INT,masques,27,F,oui,non
+r36,DREAM,Dream #36,rue,EXT,famille ; amis,15,F,oui,non
+r37,DREAM,Dream #37,immeuble luxueux,HYBRIDE,hommes en combinaison ; policiers ; militaires ; oiseaux,22,F,oui,non
+r38,DREAM,Dream #38,chambre,INT,,21,F,non,non
+r39,DREAM,Dream #39,lieux de fête ; grands espaces,EXT,foule,25,F,oui,non
+r40,DREAM,Dream #40,lieu toxique,INT,inconnus morts,25,F,oui,non
+r41,DREAM,Dream #41,ville,EXT,policiers,22,F,oui,oui
+r42,DREAM,Dream #42,logement,INT,amis,27,H,non,non
+r43,DREAM,Dream #43,lieu sombre,INT,bourreaux,25,F,oui,non
+r44,DREAM,Dream #44,intérieur ,INT,ami,24,F,non,oui
+r45,DREAM,Dream #45,lac,EXT,oiseau ; famille ; contacts perdus,21,F,non,non
+r46,DREAM,Dream #46,avion ; université,INT,proche mort,60,F,non,oui
+r47,DREAM,Dream #47,immeuble,INT,,23,F,non,non
+r48,DREAM,Dream #48,logement ; jardin,INT,proche mort,65,F,non,non
+r49,DREAM,Dream #49,forêt,INT,drones ; compagnon,33,F,non,oui
+r50,DREAM,Dream #50,chambre d'hôtel,INT,amis ; famille,35,F,oui,oui
+r51,DREAM,Dream #51,ville ; nature ; bars,HYBRIDE,proche mort ; compagnon,28,F,non,non
+r52,DREAM,Dream #52,,0,animaux vivants,30,F,non,oui
+r53,DREAM,Dream #53,stade ; rue,EXT,famille ; inconnus,24,F,non,oui
+r54,DREAM,Dream #54,nature,EXT,,34,M,non,non
+r55,DREAM,Dream #55,logement,INT,amis,38,M,non,non
+r56,DREAM,Dream #56,nature ; pays étranger,HYBRIDE,,34,F,non,oui
+r57,DREAM,Dream #57,,,animaux vivants ; célébrités,27,F,non,non
+r58,DREAM,Dream #58,lieu sombre ; nature,EXT,,29,F,non,oui
+r59,DREAM,Dream #59,logement ; jardin,HYBRIDE,animaux vivants,49,F,non,non
